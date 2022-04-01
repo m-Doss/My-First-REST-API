@@ -9,8 +9,5 @@
 - Handle seamless user authentication with advanced features like token refresh
 - Develop professional-grade REST APIs with expert instruction
 
-**Setup and Libraries**
-- flask
-- flask_restful
-- flask_jwt
+**Setup**
 
