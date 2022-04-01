@@ -1,5 +1,5 @@
 # My-First-REST-API
-### Building my first Rest API with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy. Then deploying it into Heroku.
+### Building my first Rest API with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy. Then deploying it in Heroku.
 ---------------------------------
 **My learning objectives**  
 - Connect web or mobile applications to databases and servers via REST APIs
@@ -10,3 +10,7 @@
 - Develop professional-grade REST APIs with expert instruction
 
 **Setup and Libraries**
+- flask
+- flask_restful
+- flask_jwt
+
